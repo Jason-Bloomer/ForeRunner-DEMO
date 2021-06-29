@@ -14,5 +14,4 @@ The ForeRunner Demo is intended to showcase the full version's user interface an
 - Benchmarking performance metrics helps to optimize and expedite the analysis process
 - Auto-detect text on the screen, and automatically read it into the appropriate box*
 
-* - Requires a local installation of PyTesseract, which can be downloaded [Here][pytess].
-[pytess]: https://pypi.org/project/pytesseract/
+*Requires a local installation of PyTesseract, which can be downloaded at: https://pypi.org/project/pytesseract/
