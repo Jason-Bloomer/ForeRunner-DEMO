@@ -1,0 +1,49 @@
+E:\Files\Projects\Tests\Test 9 - CSS Color Changer\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+E:\Files\Projects\Tests\Test 9 - CSS Color Changer\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\Files\Projects\Tests\Test 9 - CSS Color Changer\WindowsApplication1\WindowsApplication1\bin\Debug\DataCalc.exe.config
+E:\Files\Projects\Tests\Test 9 - CSS Color Changer\WindowsApplication1\WindowsApplication1\bin\Debug\DataCalc.exe
+E:\Files\Projects\Tests\Test 9 - CSS Color Changer\WindowsApplication1\WindowsApplication1\bin\Debug\DataCalc.pdb
+E:\Files\Projects\Tests\Test 9 - CSS Color Changer\WindowsApplication1\WindowsApplication1\bin\Debug\DataCalc.xml
+E:\Files\Projects\Tests\Test 9 - CSS Color Changer\WindowsApplication1\WindowsApplication1\obj\Debug\DataCalc.Form1.resources
+E:\Files\Projects\Tests\Test 9 - CSS Color Changer\WindowsApplication1\WindowsApplication1\obj\Debug\DataCalc.Resources.resources
+E:\Files\Projects\Tests\Test 9 - CSS Color Changer\WindowsApplication1\WindowsApplication1\obj\Debug\DataCalc.exe
+E:\Files\Projects\Tests\Test 9 - CSS Color Changer\WindowsApplication1\WindowsApplication1\obj\Debug\DataCalc.xml
+E:\Files\Projects\Tests\Test 9 - CSS Color Changer\WindowsApplication1\WindowsApplication1\obj\Debug\DataCalc.pdb
+E:\Files\Projects\Tests\Test 9 - DataCalc\WindowsApplication1\WindowsApplication1\bin\Debug\DataCalc.exe.config
+E:\Files\Projects\Tests\Test 9 - DataCalc\WindowsApplication1\WindowsApplication1\obj\Debug\DataCalc.exe
+E:\Files\Projects\Tests\Test 9 - DataCalc\WindowsApplication1\WindowsApplication1\obj\Debug\DataCalc.xml
+E:\Files\Projects\Tests\Test 9 - DataCalc\WindowsApplication1\WindowsApplication1\obj\Debug\DataCalc.pdb
+E:\Files\Projects\Tests\Test 9 - DataCalc\WindowsApplication1\WindowsApplication1\bin\Debug\DataCalc.exe
+E:\Files\Projects\Tests\Test 9 - DataCalc\WindowsApplication1\WindowsApplication1\bin\Debug\DataCalc.pdb
+E:\Files\Projects\Tests\Test 9 - DataCalc\WindowsApplication1\WindowsApplication1\bin\Debug\DataCalc.xml
+E:\Files\Projects\Tests\Test 9 - DataCalc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+E:\Files\Projects\Tests\Test 9 - DataCalc\WindowsApplication1\WindowsApplication1\obj\Debug\DataCalc.Form1.resources
+E:\Files\Projects\Tests\Test 9 - DataCalc\WindowsApplication1\WindowsApplication1\obj\Debug\DataCalc.Resources.resources
+E:\Files\Projects\Tests\Test 9 - DataCalc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\USER 2\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\DataCalc.exe.config
+C:\Users\USER 2\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\DataCalc.exe
+C:\Users\USER 2\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\DataCalc.pdb
+C:\Users\USER 2\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\DataCalc.xml
+C:\Users\USER 2\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\USER 2\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\DataCalc.Form1.resources
+C:\Users\USER 2\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\DataCalc.Resources.resources
+C:\Users\USER 2\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\USER 2\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\DataCalc.exe
+C:\Users\USER 2\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\DataCalc.xml
+C:\Users\USER 2\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\DataCalc.pdb
+E:\Files\Projects\Tests\Test 9 - DataCalc\WindowsApplication1 - NewUI\WindowsApplication1\bin\Debug\DataCalc.exe.config
+E:\Files\Projects\Tests\Test 9 - DataCalc\WindowsApplication1 - NewUI\WindowsApplication1\obj\Debug\DataCalc.exe
+E:\Files\Projects\Tests\Test 9 - DataCalc\WindowsApplication1 - NewUI\WindowsApplication1\obj\Debug\DataCalc.xml
+E:\Files\Projects\Tests\Test 9 - DataCalc\WindowsApplication1 - NewUI\WindowsApplication1\obj\Debug\DataCalc.pdb
+E:\Files\Projects\Tests\Test 9 - DataCalc\WindowsApplication1 - NewUI\WindowsApplication1\bin\Debug\DataCalc.exe
+E:\Files\Projects\Tests\Test 9 - DataCalc\WindowsApplication1 - NewUI\WindowsApplication1\bin\Debug\DataCalc.pdb
+E:\Files\Projects\Tests\Test 9 - DataCalc\WindowsApplication1 - NewUI\WindowsApplication1\bin\Debug\DataCalc.xml
+E:\Files\Projects\Tests\Test 9 - DataCalc\WindowsApplication1 - NewUI\WindowsApplication1\obj\Debug\DataCalc.Form1.resources
+E:\Files\Projects\Tests\Test 9 - DataCalc\WindowsApplication1 - NewUI\WindowsApplication1\obj\Debug\DataCalc.Resources.resources
+E:\Files\Projects\Tests\Test 9 - DataCalc\WindowsApplication1 - NewUI\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\Files\Projects\Tests\Test 9 - DataCalc\WindowsApplication1 - NewUI\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+E:\Files\Projects\Tests\Test 9 - DataCalc\WindowsApplication1 - Demo\ForeRunner\bin\Debug\DataCalc.exe.config
+E:\Files\Projects\Tests\Test 9 - DataCalc\WindowsApplication1 - Demo\ForeRunner\obj\Debug\DataCalc.exe
+E:\Files\Projects\Tests\Test 9 - DataCalc\WindowsApplication1 - Demo\ForeRunner\obj\Debug\DataCalc.xml
+E:\Files\Projects\Tests\Test 9 - DataCalc\WindowsApplication1 - Demo\ForeRunner\obj\Debug\DataCalc.pdb
+E:\Files\Projects\Tests\Test 9 - DataCalc\WindowsApplication1 - Demo\ForeRunner\bin\Debug\ForeRunner.exe.config

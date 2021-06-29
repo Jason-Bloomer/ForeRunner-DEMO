@@ -1,0 +1,15 @@
+E:\Files\Projects\Tests\Test 9 - DataCalc\WindowsApplication1 - Demo\ForeRunner\obj\Debug\ForeRunner.vbprojResolveAssemblyReference.cache
+E:\Files\Projects\Tests\Test 9 - DataCalc\WindowsApplication1 - Demo\ForeRunner\obj\Debug\ForeRunner.Form1.resources
+E:\Files\Projects\Tests\Test 9 - DataCalc\WindowsApplication1 - Demo\ForeRunner\obj\Debug\ForeRunner.Resources.resources
+E:\Files\Projects\Tests\Test 9 - DataCalc\WindowsApplication1 - Demo\ForeRunner\obj\Debug\ForeRunner.vbproj.GenerateResource.Cache
+E:\Files\Projects\Tests\Test 9 - DataCalc\WindowsApplication1 - Demo\ForeRunner\obj\Debug\ForeRunner.xml
+E:\Files\Projects\Tests\Test 9 - DataCalc\WindowsApplication1 - Demo\ForeRunner\bin\Debug\ForeRunner.exe.config
+E:\Files\Projects\Tests\Test 9 - DataCalc\WindowsApplication1 - Demo\ForeRunner\bin\Debug\ForeRunner.exe
+E:\Files\Projects\Tests\Test 9 - DataCalc\WindowsApplication1 - Demo\ForeRunner\bin\Debug\ForeRunner.pdb
+E:\Files\Projects\Tests\Test 9 - DataCalc\WindowsApplication1 - Demo\ForeRunner\bin\Debug\ForeRunner.xml
+E:\Files\Projects\Tests\Test 9 - DataCalc\WindowsApplication1 - Demo\ForeRunner\obj\Debug\ForeRunner.exe
+E:\Files\Projects\Tests\Test 9 - DataCalc\WindowsApplication1 - Demo\ForeRunner\obj\Debug\ForeRunner.pdb
+E:\Files\Projects\Tests\Test 9 - DataCalc\ForeRunner - Demo\ForeRunner\bin\Debug\ForeRunner.exe.config
+E:\Files\Projects\Tests\Test 9 - DataCalc\ForeRunner - Demo\ForeRunner\obj\Debug\ForeRunner.exe
+E:\Files\Projects\Tests\Test 9 - DataCalc\ForeRunner - Demo\ForeRunner\obj\Debug\ForeRunner.xml
+E:\Files\Projects\Tests\Test 9 - DataCalc\ForeRunner - Demo\ForeRunner\obj\Debug\ForeRunner.pdb
